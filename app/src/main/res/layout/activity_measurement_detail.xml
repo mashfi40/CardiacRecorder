@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#F44336"
+    android:background="#BA75E4"
     android:orientation="vertical"
     tools:context=".MeasurementDetail">
 
@@ -159,7 +159,7 @@
             android:layout_width="160dp"
             android:layout_height="wrap_content"
             android:text="Edit"
-            android:backgroundTint="#0A730E"
+            android:backgroundTint="#5E38A3"
             android:textSize="20dp"
             android:padding="10dp"
             android:layout_margin="10dp"
@@ -170,7 +170,7 @@
             android:text="Delete"
             android:padding="10dp"
             android:layout_margin="10dp"
-            android:backgroundTint="#3F51B5"
+            android:backgroundTint="#1C2A77"
             android:textSize="20dp"
             android:id="@+id/deleteB"/>
     </LinearLayout>
