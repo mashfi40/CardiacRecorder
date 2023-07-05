@@ -13,7 +13,7 @@
         android:layout_width="160dp"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:backgroundTint="#3F51B5"
+        android:backgroundTint="#1C2A77"
         android:padding="10dp"
         android:text="LOGIN"
         android:textSize="20dp"
@@ -29,7 +29,7 @@
         android:layout_width="160dp"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:backgroundTint="#33DC33"
+        android:backgroundTint="#5E38A3"
         android:padding="10dp"
         android:text="Register"
         android:textSize="20dp"
@@ -39,6 +39,19 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.564" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="257dp"
+        android:layout_height="35dp"
+        android:text="Get Involved with Us"
+        android:textSize="28dp"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.264" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
