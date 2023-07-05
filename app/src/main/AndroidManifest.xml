@@ -12,7 +12,20 @@
         android:theme="@style/Theme.CardiacRecorder"
         tools:targetApi="31">
         <activity
+<<<<<<< HEAD
             android:name=".HomeActivity"
+=======
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EntryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".entryactivity"
+>>>>>>> 3a1225fd280ee91b3441a8390fd86b1e73747ae8
             android:exported="false" />
         <activity
             android:name=".MainActivity"

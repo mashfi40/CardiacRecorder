@@ -4,12 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"
-<<<<<<< HEAD
-    android:id="@+id/splash"
-    android:background="@drawable/splash2"
-    />
+    tools:context=".RegisterActivity">
 
-=======
-    android:background="@drawable/ic_splash_screen"/>
->>>>>>> 3a1225fd280ee91b3441a8390fd86b1e73747ae8
+</androidx.constraintlayout.widget.ConstraintLayout>
