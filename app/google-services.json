@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "567849558793",
+    "firebase_url": "https://cardiacrecorder-dc4d8-default-rtdb.firebaseio.com",
     "project_id": "cardiacrecorder-dc4d8",
     "storage_bucket": "cardiacrecorder-dc4d8.appspot.com"
   },

@@ -49,13 +49,13 @@ public class RegisterActivity extends AppCompatActivity {
         progressDialog=new ProgressDialog(this);
         mAuth=FirebaseAuth.getInstance();
         mUser=mAuth.getCurrentUser();
-
-        alreadyhaveanaccount.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startActivity(new Intent(RegisterActivity.this,MainActivity.class));
-            }
-        });
+//
+//        alreadyhaveanaccount.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View v) {
+//                startActivity(new Intent(RegisterActivity.this,MainActivity.class));
+//            }
+//        });
 
         signupbtn.setOnClickListener(new View.OnClickListener() {
             @Override
